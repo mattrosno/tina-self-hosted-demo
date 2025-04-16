@@ -1,7 +1,7 @@
 ---
-header: Get Started by editing app/page/tsx
+header: I'm editing this!!!
 logo:
-  url: /next.svg
+  url: /tina.svg
   alt: NextJS
 links:
   - header: Matt
