@@ -6,7 +6,7 @@ logo:
 links:
   - header: Matt
     description: Rosnooo
-    url: carbondesignsystem.com
+    url: 'https://www.carbondesignsystem.com'
   - header: Docs
     description: Find in-depth information about Next.js features and API.
     url: 'https://nextjs.org/docs?utm_source=create-next-app'
