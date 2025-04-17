@@ -4,7 +4,7 @@ logo:
   url: /tina.svg
   alt: NextJS
 links:
-  - header: Matt
+  - header: Matthew
     description: Rosnooo
     url: 'https://www.carbondesignsystem.com'
   - header: Docs
